@@ -16,12 +16,5 @@
             "TestePackagist\\": "src/"
         }
     },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Carbon\\Laravel\\ServiceProvider"
-            ]
-        }
-    },
     "minimum-stability": "stable"
 }
