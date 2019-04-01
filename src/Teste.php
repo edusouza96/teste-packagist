@@ -1,5 +1,7 @@
 <?php
 
+namespace EduSouza;
+
 class Teste 
 {
     public function zueira()
