@@ -1,0 +1,8 @@
+{
+    "name": "edusouza96/teste-packagist",
+    "description": "testando submit disso",
+    "require": {
+        "php": "^5.6",
+        "another-vendor/package": "1.*"
+    }
+}
