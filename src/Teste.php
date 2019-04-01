@@ -1,6 +1,6 @@
 <?php
 
-namespace EduSouza;
+namespace TestePackagist;
 
 class Teste 
 {
